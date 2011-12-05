@@ -1,6 +1,10 @@
 {
     "name": "lloging"
+  , "description": "quick and dirty wrapper around  http://github.com/dylang/logging"
   , "version": "0.0.1"
+  , "author": "Peter Host"
+  , "repository": "git@github.com:peterhost/lloging.git"
+  , "main": "./lloging.js"
   , "private": true
   , "dependencies": {
       "logging": ">= 2.0.12"
