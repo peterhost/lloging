@@ -1,0 +1,9 @@
+{
+    "name": "loging"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "logging": ">= 2.0.12"
+  }
+  , "engine": "node >= 0.4.x"
+}
